@@ -1,5 +1,4 @@
 ## Giới thiệu về đồ án
-- Đồ án cửa hàng Decorate Stis là đồ án web đầu tiên của nhóm nên nhóm làm còn nhiều thiếu xót cũng như chưa được hoàn thiện nhiều
 - Các chức năng chính của đồ án như:
 	- Giỏ hàng
 	- Admin quản lý
