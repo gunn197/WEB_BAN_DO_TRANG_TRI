@@ -9,7 +9,7 @@
 ## Hướng dẫn cài đặt
 - Cài đặt Visual Studio 2019
 - Cài đặt SQL Server 2019
-  - Tạo database CuaHangDecorate bằng SQL Server 2019
+- Tạo database CuaHangDecorate bằng SQL Server 2019
 ## Cài đặt các gói nuget packages sau:
 - AspNetCoreHero.ToastNotification (1.1.0)
 - Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (5.0.12)
