@@ -1,5 +1,5 @@
-## Giới thiệu về đồ án
-- Các chức năng chính của đồ án như:
+## Giới thiệu về trang web
+- Các chức năng chính của trang web như:
 	- Giỏ hàng
 	- Admin quản lý
 	- Mua hàng
