@@ -9,8 +9,6 @@
 ## Hướng dẫn cài đặt
 - Cài đặt Visual Studio 2019
 - Cài đặt SQL Server 2019
-  - Đăng nhập github
-  - Truy cập https://github.com/PhamNhuLong/framework_IS220.M11_10.git và __clone__ code về máy
   - Tạo database CuaHangDecorate bằng SQL Server 2019
 ## Cài đặt các gói nuget packages sau:
 - AspNetCoreHero.ToastNotification (1.1.0)
